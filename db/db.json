@@ -1,0 +1,241 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe"
+      },
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Chasing sunsets 🌅 #BeachVibes #Travel",
+      "likes": 234,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Absolutely stunning view! 😍"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this beach?"
+        }
+      ],
+      "timestamp": "2025-09-01T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sarah_sky",
+        "profile_pic": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+      },
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "caption": "Coffee + Books = Perfect Morning ☕📚 #MorningVibes",
+      "likes": 180,
+      "comments": [
+        {
+          "user": "booklover_89",
+          "comment": "This is my dream morning! ❤️"
+        }
+      ],
+      "timestamp": "2025-09-02T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "mike_runner",
+        "profile_pic": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+      },
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a",
+      "caption": "Finished my first marathon today! 🏃‍♂️💪 #Fitness #Goals",
+      "likes": 305,
+      "comments": [
+        {
+          "user": "fitlife_01",
+          "comment": "Congrats man! 🔥🔥🔥"
+        },
+        {
+          "user": "lucy_runs",
+          "comment": "Amazing achievement! Proud of you 👏"
+        }
+      ],
+      "timestamp": "2025-09-03T17:00:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "emma_foodie",
+        "profile_pic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+      },
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "caption": "Homemade creamy pasta tonight 🍝✨ #FoodieLife",
+      "likes": 412,
+      "comments": [
+        {
+          "user": "chef_love",
+          "comment": "Looks delicious! 😋"
+        },
+        {
+          "user": "anna_cooks",
+          "comment": "Recipe please! 🙏"
+        }
+      ],
+      "timestamp": "2025-09-03T20:30:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "tech_guru",
+        "profile_pic": "https://images.unsplash.com/photo-1607746882042-944635dfe10e"
+      },
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "caption": "Late-night coding sessions hit different 💻☕ #DevLife",
+      "likes": 520,
+      "comments": [
+        {
+          "user": "code_master",
+          "comment": "Setup goals 🔥"
+        },
+        {
+          "user": "geek_girl",
+          "comment": "Love the RGB lights!"
+        }
+      ],
+      "timestamp": "2025-09-04T01:00:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "nature_lover",
+        "profile_pic": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "caption": "Fresh air + mountains = happiness 🏔️✨",
+      "likes": 267,
+      "comments": [
+        {
+          "user": "outdoor_junkie",
+          "comment": "Take me here!! 😍"
+        }
+      ],
+      "timestamp": "2025-09-04T06:20:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "petlover_anna",
+        "profile_pic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+      },
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16",
+      "caption": "Meet my new fur baby 🐶💛 #PuppyLove",
+      "likes": 612,
+      "comments": [
+        {
+          "user": "doggo_fan",
+          "comment": "OMG so cute 😍"
+        },
+        {
+          "user": "cat_person",
+          "comment": "Even I like this pup 🐕"
+        }
+      ],
+      "timestamp": "2025-09-04T10:45:00Z"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "travel_with_me",
+        "profile_pic": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+      },
+      "image": "https://images.unsplash.com/photo-1520974729237-6cbcd33b7d79",
+      "caption": "Paris never disappoints 🇫🇷✨ #Wanderlust",
+      "likes": 480,
+      "comments": [
+        {
+          "user": "city_explorer",
+          "comment": "Bucket list ✅"
+        }
+      ],
+      "timestamp": "2025-09-04T13:15:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "john_doe",
+    "profile_pic": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_pic": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe"
+    },
+    {
+      "id": "102",
+      "username": "sarah_sky",
+      "profile_pic": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+    },
+    {
+      "id": "103",
+      "username": "mike_runner",
+      "profile_pic": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+    },
+    {
+      "id": "104",
+      "username": "emma_foodie",
+      "profile_pic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+    },
+    {
+      "id": "105",
+      "username": "tech_guru",
+      "profile_pic": "https://images.unsplash.com/photo-1607746882042-944635dfe10e"
+    },
+    {
+      "id": "106",
+      "username": "nature_lover",
+      "profile_pic": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7"
+    },
+    {
+      "id": "107",
+      "username": "petlover_anna",
+      "profile_pic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    {
+      "id": "108",
+      "username": "travel_with_me",
+      "profile_pic": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "mike_runner",
+        "profile_pic": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_foodie",
+        "profile_pic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+      },
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16"
+    }
+  ],
+  "followers": [
+    {
+      "id": "103",
+      "username": "mike_runner"
+    }
+  ]
+}
